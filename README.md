@@ -20,18 +20,28 @@ start_node
 
 ### Example Input:
 5 4
+
 1 2
+
 1 3
+
 3 4
+
 4 5
+
 1
 
 ### Example Output:
 1 2 3 4 5
+
 1: 2 3
+
 2: 1
+
 3: 1 4
+
 4: 3 5
+
 5: 4
 
 
